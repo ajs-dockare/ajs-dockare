@@ -1,6 +1,7 @@
 ### Hi there, I'm Aatmjeet Singh 👋
 
-## I'm an Backend Developer at Dockare!
+## I'm a Full stack Developer at Dockare!
+## I enjoy working on all the layers of the stack! (Backend is love <3)
 
 - 🔭 I’m currently working on Building highly optimised API's
 - 🌱 I’m currently learning Backend frameworks on Python
