@@ -25,7 +25,7 @@
 
 <br />
 
-<!-- ### Languages and Tools:
+### Languages and Tools:
 - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 - <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 - <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
@@ -43,7 +43,7 @@
 
 - <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"> 
 <br />
-<br /> -->
+<br />
 
 ---
 
